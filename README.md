@@ -258,3 +258,20 @@ This project was built as an internship project.
 ---
 
 Built with ❤️ using the MERN Stack
+
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](screenshots/landing.png)
+
+### Browse Projects
+![Browse Projects](screenshots/browse-projects.png)
+
+### Project Details
+![Project Details](screenshots/project-details.png)
+
+### Founder Dashboard
+![Founder Dashboard](screenshots/founder-dashboard.png)
+
+### Login Page
+![Login](screenshots/login.png)
